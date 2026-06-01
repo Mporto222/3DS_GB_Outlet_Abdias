@@ -17,3 +17,7 @@
 .produtos img:hover{
     transform: scale(1.5)
 }
+.container{
+    display: flex;
+    justify-content:center;
+}
