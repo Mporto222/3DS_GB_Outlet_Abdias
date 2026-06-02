@@ -21,3 +21,10 @@
     display: flex;
     justify-content:center;
 }
+.titulo_prod{
+    display:flex;
+    justify-content: center;
+    color: rgb(240, 93, 7);
+    font-weight: bold;
+    font-family: Arial;
+}
