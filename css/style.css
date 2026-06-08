@@ -22,8 +22,18 @@
     justify-content:center;
 }
 .titulo_prod{
+    text-align: center;
+    padding: top 10px;
     display:flex;
     justify-content: center;
+    color: rgb(240, 93, 7);
+    font-weight: bold;
+    font-family: Arial;
+}
+.texto_prod{
+    display:flex;
+    justify-content: center;
+    align-items: center;
     color: rgb(240, 93, 7);
     font-weight: bold;
     font-family: Arial;
